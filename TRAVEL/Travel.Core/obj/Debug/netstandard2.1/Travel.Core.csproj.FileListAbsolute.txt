@@ -1,0 +1,8 @@
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\bin\Debug\netstandard2.1\Travel.Core.deps.json
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\bin\Debug\netstandard2.1\Travel.Core.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\bin\Debug\netstandard2.1\Travel.Core.pdb
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\obj\Debug\netstandard2.1\Travel.Core.AssemblyInfoInputs.cache
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\obj\Debug\netstandard2.1\Travel.Core.AssemblyInfo.cs
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\obj\Debug\netstandard2.1\Travel.Core.csproj.CoreCompileInputs.cache
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\obj\Debug\netstandard2.1\Travel.Core.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Core\obj\Debug\netstandard2.1\Travel.Core.pdb

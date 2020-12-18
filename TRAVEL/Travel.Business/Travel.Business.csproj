@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PayStack.Net" Version="0.7.7" />
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Travel.Core\Travel.Core.csproj" />
+    <ProjectReference Include="..\Travel.Data\Travel.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.csprojAssemblyReference.cache
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.AssemblyInfoInputs.cache
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.AssemblyInfo.cs
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.csproj.CoreCompileInputs.cache
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Business.deps.json
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Business.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Business.pdb
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Core.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Data.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Core.pdb
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\bin\Debug\netstandard2.1\Travel.Data.pdb
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.csproj.CopyComplete
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.dll
+C:\Users\DAMILOLA\source\repos\travel\TRAVEL\Travel.Business\obj\Debug\netstandard2.1\Travel.Business.pdb
