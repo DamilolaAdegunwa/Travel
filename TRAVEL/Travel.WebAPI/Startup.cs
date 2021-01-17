@@ -280,7 +280,7 @@ namespace Travel.WebAPI
         {
             if (Environment.IsDevelopment())
             {
-                UserSeed.SeedDatabase(app);
+                //UserSeed.SeedDatabase(app);
                 app.UseDeveloperExceptionPage();
             }
             else
